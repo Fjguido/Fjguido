@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francis Guido</h1>
 <h3 align="center">Software Engineer currently looking for employment opportunities</h3>
 
-- 🔭 I’m currently working on **Solar**
+- 🔭 I’m currently working on **Solar - a planet facts website based on our Solar System**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
