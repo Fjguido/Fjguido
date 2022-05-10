@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Francis Guido</h1>
+<h1 align="center">Hi, I'm Francis Guido</h1>
 <h3 align="center">Software Engineer currently looking for employment opportunities</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
