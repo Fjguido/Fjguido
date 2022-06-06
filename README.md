@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **fjguido97@gmail.com**
 
+- Personal Site **https://fjguido.github.io/**
+
 <div align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
