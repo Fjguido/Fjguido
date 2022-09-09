@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Francis Guido</h1>
 <h3 align="center">Software Engineer in NYC currently looking for employment opportunities</h3>
 
-- 🌱 I’m currently learning **Data Structures and creating projects using MERN Stack**
+-  I’m currently learning **Data Structures and creating projects using MERN Stack**
 
-- 💬 Ask me about **React, JavaScript, and Rails.**
+-  Ask me about **React, JavaScript, and Rails.**
 
-- 📫 How to reach me **fjguido97@gmail.com**
+-  How to reach me **fjguido97@gmail.com**
 
 - Personal Site **https://fjguido.github.io/**
 
