@@ -30,4 +30,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjguido&theme=dark&exclude_repo=inventory-tracker-website,inventory-tracker-executable&hide=scss&layout=compact" alt="top-languages"/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fjguido&label=Profile%20views&color=0e75b6&style=flat" alt="fjguido" /> </p>
+
