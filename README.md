@@ -3,8 +3,6 @@
 
 -  I’m currently learning **Data Structures and creating projects using MERN Stack**
 
--  Ask me about **React, JavaScript, and Ruby on Rails.**
-
 -  How to reach me **fjguido97@gmail.com**
 
 - Personal Site **https://fjguido.github.io/**
