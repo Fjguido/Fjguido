@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Francis</h1>
 <h3 align="center">Software Engineer in NYC currently looking for employment opportunities</h3>
 
--  I’m always learning **Fundamentals and currently creating projects using MERN Stack**
-
 -  How to reach me **fjguido97@gmail.com**
 
 - Personal Site **https://fjguido.github.io/**
