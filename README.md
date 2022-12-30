@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Francis</h1>
 <h3 align="center">Software Engineer based in NYC</h3>
 
-<h3 align="center">How to reach me **fjguido97@gmail.com**</h3>
+- How to reach me **fjguido97@gmail.com**
 - Personal Site **https://fjguido.github.io/**
 
 <div>
